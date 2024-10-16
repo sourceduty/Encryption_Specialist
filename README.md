@@ -14,6 +14,10 @@ Encryption Specialist helps users by providing detailed, interactive assistance 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [2fa](https://github.com/sourceduty/2fa)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
+<br>
+[IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
