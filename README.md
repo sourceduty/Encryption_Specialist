@@ -18,6 +18,17 @@ Privacy in a digital security business is paramount, especially as the boundarie
 In this context, the approach to privacy involves employing advanced encryption technologies, robust access controls, and continuous monitoring of data access patterns. Digital security firms must also ensure that their personnel are well-versed in privacy policies and the ethical implications of handling sensitive information. Training employees on the importance of confidentiality and conducting regular security audits are practices that reinforce a privacy-centric culture. Ultimately, a digital security business must be vigilant and proactive, as the digital landscape is constantly evolving, with new threats emerging that could potentially undermine privacy protections.
 
 #
+### AES Laws, Backdoors and Private Encryption
+
+![Private_Encryption](https://github.com/user-attachments/assets/eee8bd95-424f-4bc9-958c-f5a0c8158e2d)
+
+AES was developed by the National Institute of Standards and Technology (NIST), a U.S. government agency, which was adopted as the U.S. federal standard for symmetric block encryption in 2001. AES is one of the most widely used cryptographic algorithms today. Concerns about potential backdoors in encryption algorithms developed by NIST are valid but unproven. Both the FBI and CIA have the potential means to force entry and break certain versions of AES encryption under specific circumstances, which would successfully decrypt modern-day 192-bit or 256-bit AES data. 
+
+In many jurisdictions, refusing to comply with a lawful court order demanding access to encrypted data could result in criminal charges such as obstruction of justice, contempt of court, or violation of electronic surveillance laws. It's important to note that laws and regulations regarding encryption keys vary significantly across different countries, states, and jurisdictions. The specific consequences of refusing to disclose them will depend on the applicable legal framework in each case.
+
+Sourceduty can but hasn't developed it's own private encryption algorithm. Other companies might develop their own private encryption as well.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
